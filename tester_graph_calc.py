@@ -3,7 +3,6 @@ from PySide2.QtCore import Qt
 from PySide2.QtWidgets import QMessageBox
 from PySide2.QtTest import QTest
 from unittest.mock import MagicMock
-
 from main import PlotWindow, QApplication
 
 
