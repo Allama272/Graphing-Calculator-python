@@ -8,15 +8,15 @@ Simple Graphing calculator written in python with pyside2 and matplotlib
 
 ## Supported Functions:
 
-- +
+- "+"
 
-- -
+- "-"
 
-- *
+- "*"
 
-- /
+- "/"
 
-- ^
+- "^"
 
 - ln
 
